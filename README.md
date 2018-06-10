@@ -1,3 +1,3 @@
 # eureka
 
-## eureka高可用集群
+## eureka高可用集群配置
